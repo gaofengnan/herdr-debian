@@ -1,8 +1,8 @@
 Section: utils
 Priority: optional
-Maintainer: Dario Griffo <dariogriffo@gmail.com>
+Maintainer: Fengnan Gao <gao.fengnan@gmail.com>
 Homepage: https://herdr.dev
 Package: herdr
-Version: herdr_VERSION-BUILD_VERSION~griffo
+Version: herdr_VERSION-BUILD_VERSION~gaofn
 Architecture: SUPPORTED_ARCHITECTURES
 Description: terminal workspace manager for AI coding agents

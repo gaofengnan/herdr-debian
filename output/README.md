@@ -1,5 +1,7 @@
 # herdr
 
+> Fork of [dariogriffo/herdr-debian](https://github.com/dariogriffo/herdr-debian) (MIT); the original packaging is by Dario Griffo. Served at [deb.gaofn.xyz](https://deb.gaofn.xyz) for Debian 12 (bookworm) and 13 (trixie).
+
 An agent multiplexer that lives in your terminal — a terminal workspace manager
 for AI coding agents.
 
@@ -24,7 +26,7 @@ See `herdr --help` for the full command line reference, or visit
 ## Packaging
 
 This is the _unofficial_ Debian/Ubuntu package for herdr, hosted at
-[deb.griffo.io](https://deb.griffo.io). It repackages the upstream release
+[deb.gaofn.xyz](https://deb.gaofn.xyz). It repackages the upstream release
 binary; for the herdr source code and issues, see the upstream repository above.
 
 ## License
